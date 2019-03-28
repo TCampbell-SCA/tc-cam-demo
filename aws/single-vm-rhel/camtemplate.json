@@ -1,0 +1,14 @@
+{
+   "name": "single-vm-rhel",
+   "description": "Description for single-vm-rhel.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "single-vm-rhel",
+     "bullets": []
+   }
+ }
